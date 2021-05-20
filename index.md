@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+### MAZINHO JORDÃO 
 
-You can use the [editor on GitHub](https://github.com/mazinhojordao/mazinhojordao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O libertador de mentes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Não se conforme em ter sua **mentalidade** aprisionada.
 
-### Markdown
+Desde o ano passado, quando a pandemia do Corona Vírus eclodiu, fiquei pensando qual era o principal motivo que queria viver.
+E foi além... por qual motivo valia a pena morrer. Morte por todo lado e eu atinei pra seguinte introspecção:
+qual o meu propósito de vida?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### O Propósito
+
+# Website em CONSTRUÇÃO.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +30,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes acesse [meu Instagram](https://instagram.com/mazinhojordao/).
 
-### Jekyll Themes
+## Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mazinhojordao/mazinhojordao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Suporte e contato
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Problemas com as Pages? Check out our [documentation]) or [contact support]
