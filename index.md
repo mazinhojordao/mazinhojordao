@@ -19,7 +19,7 @@ Doença, morte, medo e tristeza por todo lado e eu atinei pra seguinte observaç
 
 Em meados de 2020, 1º auge da pandemia aqui no Brasil, comecei a empreender de forma independente e obstinada, uma pesquisa sobre o que, *de fato*, estava acontecendo. Eu estava inquieto. Ávido por descobrir um fim naquele meio. Mas, o que posso dizer? Não se encontra a chegada sem correr a maratona. Mas ainda assim eu queria fazer alguma coisa. O que eu podia fazer em busca de respostas, eu fiz. Lia em ritmo frenético livros e artigos, assistia documentários, video-aulas, obras de ficção, dentre outras diversas formas de pesquisa as quais hoje temos disponíveis sobre um tema específico: a _era digital_. Estava ficando cada vez mais evidente... ela tinha chegado! E chegou tão enérgica, firme e inflexível que não tive como ignorar o quanto isso me afetava. E se aquilo me impressionava, com certeza afligia outras pessoas.
 
-Entre um link e outro, buscando associar fatos historicos com a construção da sociedade até chegar onde conhecemos hoje, elencando os elementos e materiais mais expressivos e significativos da história, os quais tomei como base para desenvolver este estudo, experienciei epifanias, pequenos lampejos de revelações... Como resultado do aprendizado pude alcançar a compreensão de que somos peças de um enorme jogo de xadrez. Por exemplo: sabe aquele 10% que, por norma, é desempenhado por nossos processos mentais? O que acontece é que isso foi propriamente articulado para que fosse dessa forma.
+Entre um link e outro, buscando associar fatos historicos com a construção da sociedade até chegar onde conhecemos hoje, elencando os elementos e materiais mais expressivos e significativos da história, os quais tomei como base para desenvolver este estudo, experienciei epifanias, pequenos e constantes lampejos de revelações... Como resultado do aprendizado pude alcançar a compreensão de que somos peças de um enorme jogo de xadrez. Por exemplo: sabe aquele 10% que, por norma, é desempenhado por nossos processos mentais? O que acontece é que isso foi propriamente articulado para que fosse dessa forma.
 
 *O meu propósito* é te mostrar formas de viver e ver a vida sob um olhar NOVO, ainda que tratando com fatos ora do passado, ora do futuro.
 O presente é só um e vivemos nele, cada um(a) no(a) seu(sua). Contudo será necessário, para que haja real libertação da mente, levantar dados, informações e referências tanto do passado quanto de um futuro próximo, imperiosamente presumível. 
@@ -36,8 +36,7 @@ Leia o primeiro post da série *O que está por vir* no meu [Instagram](https://
 Para acesso a todo o conteúdo me [siga](https://instagram.com/mazinhojordao/) no Instagram
 
 Assista ESTE VÍDEO <- *DISPONÍVEL EM BREVE*
-
-<img src="http://mazinhojordao.github.io/mazinhojordao-2/insta+.jpg" alt="INSTAGRAM">
+E-BOOK <- *DISPONÍVEL EM BREVE*
 
 
 
