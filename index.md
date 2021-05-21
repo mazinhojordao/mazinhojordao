@@ -29,7 +29,8 @@ Não que eu tenha a resposta pra tudo - longe de mim estar nesse nível de presu
 
 [Edmar Jordão Filho](https://facebook.com/edmarjordao.filho/)
 
-1ªtemporada já disponível!
+1ªtemporada já disponível! 
+
 Leia o primeiro post da série *O que está por vir* no meu [Instagram](https://www.instagram.com/p/CN5_X2WrA08/)
 
 Para acesso a todo o conteúdo me [siga](https://instagram.com/mazinhojordao/) no Instagram
@@ -39,5 +40,4 @@ Assista ESTE VÍDEO <- *DISPONÍVEL EM BREVE*
 ## 🚨 Website em CONSTRUÇÃO. 🚨
 
 Aguarde novidades...
-👨‍💻📈👨‍🔧📥👷‍♂️📐🧑‍🚀📏👨‍🏫🎯👨‍🎤
 
