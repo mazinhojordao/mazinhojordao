@@ -37,7 +37,7 @@ Para acesso a todo o conteúdo me [siga](https://instagram.com/mazinhojordao/) n
 
 Assista ESTE VÍDEO <- *DISPONÍVEL EM BREVE*
 
-<img src="http://mazinhojordao.github.io/img/imagem.png" alt="INSTAGRAM">
+<img src="http://mazinhojordao.github.io/mazinhojordao-2/insta+.jpg" alt="INSTAGRAM">
 
 
 
