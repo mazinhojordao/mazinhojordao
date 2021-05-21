@@ -1,4 +1,4 @@
-# `Libertador de MENTES`
+#  `Libertador de MENTES`
 
 
 Não se conforme em ter sua **mentalidade aprisionada**.
