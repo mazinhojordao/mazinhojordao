@@ -13,7 +13,7 @@ Copyright Dave Gandy 2016. All rights reserved.
     font-weight="400"
     font-stretch="normal"
     units-per-em="1792"
-    panose-1="0 0 0 0 0 0 0 0 0 0"
+    panose-1="0 0 0 0 0 0 0 0 0 1"
     ascent="1536"
     descent="-256"
     bbox="-1.02083 -256.962 2304.6 1537.02"

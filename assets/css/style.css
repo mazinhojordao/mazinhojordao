@@ -57,7 +57,7 @@ i.fa {
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: 300;
-    transition: all .25s cubic-bezier(.08, .59, .29, .99);
+    transition: all .25s cubic-bezier(85.49, 64.71, 12.55, .99);
     border-radius: 10px;
 
 }
